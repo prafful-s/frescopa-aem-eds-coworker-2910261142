@@ -1,15 +1,14 @@
 {
   "mappings": [
-    "/content/we-healthcare/language-masters/en:/",
-    "/content/we-healthcare/language-masters/en/:/en/",
-    "/content/we-healthcare/configuration:/.helix/config.json",
-    "/content/we-healthcare/metadata:/metadata.json",
-    "/content/we-healthcare/redirects:/redirects.json",
-    "/content/we-healthcare/graphql:/graphql.json",
-    "/content/we-healthcare/placeholders:/placeholders.json"
+    "/content/tsojka/frescopa-aem-eds-coworker/language-masters/en:/",
+    "/content/tsojka/frescopa-aem-eds-coworker/language-masters/en/:/en/",
+    "/content/tsojka/frescopa-aem-eds-coworker/configuration:/.helix/config.json",
+    "/content/tsojka/frescopa-aem-eds-coworker/metadata:/metadata.json",
+    "/content/tsojka/frescopa-aem-eds-coworker/redirects:/redirects.json",
+    "/content/tsojka/frescopa-aem-eds-coworker/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/we-healthcare/",
-    "/content/dam/we-healthcare/"
+    "/content/tsojka/frescopa-aem-eds-coworker/",
+    "/content/dam/tsojka/frescopa-aem-eds-coworker/"
   ]
 }
